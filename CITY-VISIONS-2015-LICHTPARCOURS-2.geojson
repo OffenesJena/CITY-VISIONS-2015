@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582948,
+          50.9286689,
+          0
+        ]
+      },
+      "properties": {
+        "name": "(We are) Light Catchers",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/04/10.2.jpg\" height=\"200\" width=\"auto\" /><br><br>‘(We Are) Light Catchers’ ist eine kollaborativ-öffentliche Lichtskulptur von Michael Ang. Mit Hilfe von speziellen MAZeT Lichtsensoren will der Künstler gemeinsam mit den Teilnehmern seines Workshops 24 Stunden Daten über ihre direkte, persönliche Lichtumgebung sammeln.<br>_______________________________________<br>Participants of the workshop wear a light sensor, which records the color and quality of the ambient light around them. Over a period of 24 hours the sensor builds up a 'personal light story'. ‘(We Are) Light Catchers’ by Michael Ang seeks to raise awareness of our individual light environments and gives the chance to 'bring your light' to a collaborative public installation. <br><br>08.10.15 – 11.10.15 / 19.30 - 24.00 Uhr<br>Ernst-Abbe-Platz <br>http://city-visions.net/?p=191",
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/04/10.2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5859091,
+          50.9278506,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Videopainting",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/05/Blake-Shawn.jpg\" height=\"200\" width=\"auto\" /><br><br>Blake Shaws 'Videopainting' ist eine Multimediacollage von Portraits unterschiedlicher Menschen aus unterschiedlichen Kulturen an den Mauern des öffentlichen Raums.<br>_______________________________________<br>Blake Shaw’s 'Videopainting' is a multimedia collage of portraits of different people from different cultures on the walls of the public space.<br><br>09.10.15 – 10.10.15 / 19.30 – 23.00 Uhr<br>mobil im Stadtraum<br>http://city-visions.net/?p=431",
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/05/Blake-Shawn.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.581328,
+          50.9279047,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wearable Facade",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/05/1.jpg\" height=\"200\" width=\"auto\" /><br><br>'Wearable Facade' verknüpft hochtechnologischen Kleidungsstücke mit der architektonischen Umgebung seiner Träger.<br> _______________________________________<br>‘Wearable Facade’ connects high-technology clothing with the architectural surrounding.<br><br>07.10.15 – 11.10.15 / 20.00 – 22.00 Uhr <br>Treffpunkt: Ernst Abbe Platz<br>http://city-visions.net/?p=288",
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/05/1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5876303,
+          50.936106900000006,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Save-O-Meter",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/04/221.jpg\" height=\"200\" width=\"auto\" /><br><br>Zusammen mit den Teilnehmern bauen die drei Künstler eine Open-Data-Lampe. In ihr visualisiert eine Skala in Echtzeit den Wasser- und Energieverbrauch eines Haushaltes. <br>_______________________________________<br>In collaboration with the participants, the three artists will construct an open-data-lamp, in which a scale visualizes the water and energy consumption of one household in real time.<br><br><br>07.10.15 – 09.10.15 / 10.00 – 18.00 Uhr<br>Trafostation<br>http://city-visions.net/?p=82",
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/04/221.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588039999999978,
+          50.92839,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Privacy Collider",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/04/11.jpg\" height=\"200\" width=\"auto\" /><br><br>‘Privacy Collider’ ist ein audiovisueller Kommunikationsapparat, ein virtuelles Zusammentreffen mit bisher Unbekannten, in dem das Konzept der Privatsphäre in ein völlig neues Licht gerückt wird.<br>_______________________________________<br>'Privacy Collider’ is an audiovisual communication apparatus, a virtual encounter with previously unknown people, that sheds a new light on the concept of privacy.<br><br>07.10.15 – 11.10.15 /  19.30 – 24.00 Uhr <br>Marktplatz<br>http://city-visions.net/?p=189",
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/04/11.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5878081,
+          50.9281278,
+          0
+        ]
+      },
+      "properties": {
+        "name": "False Positive ",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/06/recoil800x700.jpg\" height=\"200\" width=\"auto\" /><br><br>'FALSE POSITIVE' analysiert Textnachrichten sowie verdeckte Infrastrukturen und fertigt daraus 'Datenportraits' der Besucher, die eine intime, techno-politische Debatte über unseren Umgang mit persönlichen mobilen Geräten anstossen.<br>_______________________________________<br>'FALSE POSITIVE'  deploys text messaging, stealth infrastructure, street intervention, and data visualization to enact a surveillance conspiracy engaging the public in an intimate, techno-political conversation with the mobile technologies on which they depend.<br><br>07.10.15 – 09.10.15 /  10.00 – 18.00 Uhr <br>Marktplatz<br>http://city-visions.net/?p=1402",
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/06/recoil800x700.jpg"
+      }
+    }
+  ]
+}
+

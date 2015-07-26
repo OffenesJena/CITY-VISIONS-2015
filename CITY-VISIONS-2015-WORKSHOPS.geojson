@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Save-O-Meter",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/04/221.jpg\" height=\"200\" width=\"auto\" /><br><br>Zusammen mit den Teilnehmern bauen die Künstler eine Open-Data-Lampe. In ihr visualisiert eine Skala in Echtzeit den Wasser- und Energieverbrauch eines Haushaltes. <br>_______________________________________<br>In collaboration with the participants, the three artists will construct an open-data-lamp, in which a scale visualises the water- and energy consumption of one household in real time.<br><br>07.10.15 – 09.10.15 / 10.00 – 18.00 Uhr<br>Trafostation<br>http://city-visions.net/?p=82",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/04/221.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5881239,
+          50.936418,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "(Wer are) Light Catchers",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/04/10.2.jpg\" height=\"200\" width=\"auto\" /><br><br>Mit Hilfe von speziellen Lichtsensoren will Michael Ang gemeinsam mit den Teilnehmern eines Workshops 24 Stunden Daten über ihre direkte, persönliche Lichtumgebung sammeln und damit eine Lichtskulptur am Ernst Abbe Platz bespielen.<br>_______________________________________<br>The workshop invites the public to learn about the technology and privacy issues of crowd-sourced data collection, while helping to build wearable sensors.<br><br>07.10.15 – 11.10.15 / 19.30 - 24.00 Uhr<br>Ernst-Abbe Platz <br>http://city-visions.net/?p=191",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/04/10.2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5826521,
+          50.9287975,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bring your own Beamer (BYOB)",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/04/Unbenannt-1.jpg\" height=\"200\" width=\"auto\" /><br><br>Alle Besucher sind aufgerufen, ihr persönliches Film- oder Fotomaterial aus China mitzubringen. Die gleichzeitige Projektion unterschiedlicher Bilder macht die Mauern des Johannistors zur lebendigen Leinwand, weckt Begeisterung für Kunst im öffentlichen Raum und einen spannenden visuellen Dialog zwischen China und Jena.<br> _______________________________________<br>An open call to all visitors invites everyone to bring their personal footage from China. The simultaneous projection of different pictures in different sizes will animate the historic walls of the Johannistor and transform it into a living canvas, opening up the public space with its DIY art enthusiasm and provoking a lively visual dialogue between China and Jena.<br><br><br>09.10.15 / 19.00 – 23.00 Uhr<br>Johannistor<br>http://city-visions.net/?p=87",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/04/Unbenannt-1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.584092,
+          50.929447,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kaffee Lampe",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/04/14.jpg\" height=\"200\" width=\"auto\" /><br><br>Eine gemeinschaftliche Lichtskulptur von  IN's NETZ e.V. in der neu eröffneten Trafo-Station.<br>_______________________________________<br>A collaborative lightsculpture by IN's NETZ e.V. in the newly reopened Trafo-Station.<br><br>07.10.15 – 09.10.15 / 10.00 – 18.00 Uhr<br>Trafostation<br>http://city-visions.net/?p=56",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null,
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/04/14.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5872226,
+          50.9365667,
+          0
+        ]
+      }
+    }
+  ]
+}
+

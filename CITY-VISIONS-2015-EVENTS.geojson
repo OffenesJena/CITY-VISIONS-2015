@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Symposium",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/05/symposium.jpg\" height=\"200\" width=\"auto\" /><br><br>Der Wandel der Stadt im Zeitalter der Digitalisierung – Symposium an der Friedrich-Schiller-Universität Jena.<br>Parallel zu den ästhetischen Explorationen von CITY VISIONS JENA reflektiert das Symposium den urbanen Wandel auf wissenschaftlicher Ebene. <br>_______________________________________<br>The Change of the City in the Age of Digitalisation Symposium at the Friedrich-Schiller-University Jena.<br>Parallel to the aesthetic explorations of CITY VISIONS JENA, the symposium reflects on urban change on an academic level.<br>09.10.2015 /  Trafo-Station Jena<br>http://city-visions.net/?p=498",
+        "begin": null,
+        "end": null,
+        "icon": null,
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/05/symposium.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5817248,
+          50.928662,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kassablanca",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/06/19.jpg\" height=\"200\" width=\"auto\" /><br><br>_______________________________________<br><br><br>09.10.15 - 10.10.15 / 23.00 Uhr<br>Kassablanca<br>http://city-visions.net/?p=27",
+        "begin": null,
+        "end": null,
+        "icon": null,
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/06/19.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57803,
+          50.92066,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Weit - Konzert + Visuals",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/06/Fotograf_Ralf_Thomas_800x700.jpg\" height=\"200\" width=\"auto\" /><br><br>Der Schlagzeuger und Klangbastler Demian Kappenstein gibt ein Konzert für Schlagzeug, Elektronik und Fotografie. Während des Konzerts projeziert der Medienkünstler Benjamin Schindler Fotografien auf eine zwei Meter große Skulptur.<br>_______________________________________<br>Drummer and sound tinker Demian Kappenstein  produced a  full-length concert for drums, electronics and photography. During the concert media artist Benjamin Schindler projects footage  on a two meter high sculpture.<br><br>11.10.15 / time tbc / Trafo-Station",
+        "begin": null,
+        "end": null,
+        "icon": null,
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/06/Fotograf_Ralf_Thomas_800x700.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5877867,
+          50.9365259,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FullDome Special Edition",
+        "description": "<img src=\"http://city-visions.net/wp-content/uploads/2015/07/%C2%A9-Michael-Schomann_BlaueBlume.jpg\" height=\"200\" width=\"auto\" /><br><br>Das Zeiss-Planetarium Jena ist das dienstälteste Planetarium der Welt, ausgestattet mit neuesten digitalen Projektionstechnologien. Zusammen mit den Kuratoren des FullDome Festivals zeigt CITY VISIONS auf der 800 Quadratmeter großen Innenfläche der Planetariumskuppel Filme, die die ‘Unsichtbaren Städte’ widerspiegeln.<br>09.10.15 - 10.10.15 / 22.00<br>Zeiss-Planetarium Jena <br>http://city-visions.net/?p=309",
+        "begin": null,
+        "end": null,
+        "icon": null,
+        "gx_media_links": "http://city-visions.net/wp-content/uploads/2015/07/%C2%A9-Michael-Schomann_BlaueBlume.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.582948,
+          50.9286689,
+          0
+        ]
+      }
+    }
+  ]
+}
+
+

@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>CITY VISIONS 2015</name>
+		<description><![CDATA[CITY VISIONS JENA ist ein neues Licht- und Wissenschaftsfestival, das vom 7. bis 11. Oktober 2015 mit dem kuratorischen Thema der ‘Unsichtbaren und Sichtbaren Städte’ zu einem Lichtparcours einlädt. Wie können wir ‘Unsichtbare Städte’, die heute in Echtzeit Daten generieren, verarbeiten und Prozesse steuern mit künstlerischen Szenarien visualisieren? Jena als Lichtstadt und Wissenschaftszentren für optische Technologien öffnet sich vom 7. bis 11. Oktober als urbanes Labor und Bühne internationaler Medienkunst und erforscht in interaktiven Lichtinstallationen die Auswirkung und den Einsatz dieser unsichtbaren optischen Technologien.<br><br>Im Rahmen des Internationalen UNESCO Lichtjahres haben JenaKultur und Public Art Lab im Vorfeld Akteure und Experten aus den verschiedenen Bereichen Wissenschaft, Kultur, Wirtschaft, Technologie und Stadtentwicklung zu dem interdisziplinären CITY VISIONS LAB eingeladen, um gemeinsam die ‘Unsichtbaren und Sichtbaren Städte’ zu diskutieren und im Festivalprogramm mitzuwirken.<br><br>Initiiert von JenaKultur und Public Art Lab, in Zusammenarbeit mit dem internationalen Connecting Cities Netzwerk, der Friedrich-Schiller-Universität, der Bauhaus-Universität Weimar, jenawohnen, den Stadtwerken, Zeiss uvm. Mit Unterstützung des Thüringer Ministeriums für Wirtschaft, Wissenschaft und digitale Gesellschaft sowie dem Kulturprogramm der Europäischen Union.]]></description>
+		<Folder>
+			<name>LICHTPARCOURS</name>
+			<Placemark>
+				<name>(We are) Light Catchers</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/04/10.2.jpg" height="200" width="auto" /><br><br>‘(We Are) Light Catchers’ ist eine kollaborativ-öffentliche Lichtskulptur von Michael Ang. Mit Hilfe von speziellen MAZeT Lichtsensoren will der Künstler gemeinsam mit den Teilnehmern seines Workshops 24 Stunden Daten über ihre direkte, persönliche Lichtumgebung sammeln.<br>_______________________________________<br>Participants of the workshop wear a light sensor, which records the color and quality of the ambient light around them. Over a period of 24 hours the sensor builds up a 'personal light story'. ‘(We Are) Light Catchers’ by Michael Ang seeks to raise awareness of our individual light environments and gives the chance to 'bring your light' to a collaborative public installation. <br><br>08.10.15 – 11.10.15 / 19.30 - 24.00 Uhr<br>Ernst-Abbe-Platz <br>http://city-visions.net/?p=191]]></description>
+				<styleUrl>#icon-962-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/04/10.2.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.582948,50.9286689,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Videopainting</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/05/Blake-Shawn.jpg" height="200" width="auto" /><br><br>Blake Shaws 'Videopainting' ist eine Multimediacollage von Portraits unterschiedlicher Menschen aus unterschiedlichen Kulturen an den Mauern des öffentlichen Raums.<br>_______________________________________<br>Blake Shaw’s 'Videopainting' is a multimedia collage of portraits of different people from different cultures on the walls of the public space.<br><br>09.10.15 – 10.10.15 / 19.30 – 23.00 Uhr<br>mobil im Stadtraum<br>http://city-visions.net/?p=431]]></description>
+				<styleUrl>#icon-962-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/05/Blake-Shawn.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5859091,50.9278506,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wearable Facade</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/05/1.jpg" height="200" width="auto" /><br><br>'Wearable Facade' verknüpft hochtechnologischen Kleidungsstücke mit der architektonischen Umgebung seiner Träger.<br> _______________________________________<br>‘Wearable Facade’ connects high-technology clothing with the architectural surrounding.<br><br>07.10.15 – 11.10.15 / 20.00 – 22.00 Uhr <br>Treffpunkt: Ernst Abbe Platz<br>http://city-visions.net/?p=288]]></description>
+				<styleUrl>#icon-962-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/05/1.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.581328,50.9279047,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Save-O-Meter</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/04/221.jpg" height="200" width="auto" /><br><br>Zusammen mit den Teilnehmern bauen die drei Künstler eine Open-Data-Lampe. In ihr visualisiert eine Skala in Echtzeit den Wasser- und Energieverbrauch eines Haushaltes. <br>_______________________________________<br>In collaboration with the participants, the three artists will construct an open-data-lamp, in which a scale visualizes the water and energy consumption of one household in real time.<br><br><br>07.10.15 – 09.10.15 / 10.00 – 18.00 Uhr<br>Trafostation<br>http://city-visions.net/?p=82]]></description>
+				<styleUrl>#icon-962-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/04/221.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5876303,50.936106900000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Privacy Collider</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/04/11.jpg" height="200" width="auto" /><br><br>‘Privacy Collider’ ist ein audiovisueller Kommunikationsapparat, ein virtuelles Zusammentreffen mit bisher Unbekannten, in dem das Konzept der Privatsphäre in ein völlig neues Licht gerückt wird.<br>_______________________________________<br>'Privacy Collider’ is an audiovisual communication apparatus, a virtual encounter with previously unknown people, that sheds a new light on the concept of privacy.<br><br>07.10.15 – 11.10.15 /  19.30 – 24.00 Uhr <br>Marktplatz<br>http://city-visions.net/?p=189]]></description>
+				<styleUrl>#icon-962-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/04/11.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.588039999999978,50.92839,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>False Positive </name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/06/recoil800x700.jpg" height="200" width="auto" /><br><br>'FALSE POSITIVE' analysiert Textnachrichten sowie verdeckte Infrastrukturen und fertigt daraus 'Datenportraits' der Besucher, die eine intime, techno-politische Debatte über unseren Umgang mit persönlichen mobilen Geräten anstossen.<br>_______________________________________<br>'FALSE POSITIVE'  deploys text messaging, stealth infrastructure, street intervention, and data visualization to enact a surveillance conspiracy engaging the public in an intimate, techno-political conversation with the mobile technologies on which they depend.<br><br>07.10.15 – 09.10.15 /  10.00 – 18.00 Uhr <br>Marktplatz<br>http://city-visions.net/?p=1402]]></description>
+				<styleUrl>#icon-962-A61B4A</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/06/recoil800x700.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5878081,50.9281278,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>WORKSHOPS</name>
+			<Placemark>
+				<name>Save-O-Meter</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/04/221.jpg" height="200" width="auto" /><br><br>Zusammen mit den Teilnehmern bauen die Künstler eine Open-Data-Lampe. In ihr visualisiert eine Skala in Echtzeit den Wasser- und Energieverbrauch eines Haushaltes. <br>_______________________________________<br>In collaboration with the participants, the three artists will construct an open-data-lamp, in which a scale visualises the water- and energy consumption of one household in real time.<br><br>07.10.15 – 09.10.15 / 10.00 – 18.00 Uhr<br>Trafostation<br>http://city-visions.net/?p=82]]></description>
+				<styleUrl>#icon-960-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/04/221.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5881239,50.936418,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>(Wer are) Light Catchers</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/04/10.2.jpg" height="200" width="auto" /><br><br>Mit Hilfe von speziellen Lichtsensoren will Michael Ang gemeinsam mit den Teilnehmern eines Workshops 24 Stunden Daten über ihre direkte, persönliche Lichtumgebung sammeln und damit eine Lichtskulptur am Ernst Abbe Platz bespielen.<br>_______________________________________<br>The workshop invites the public to learn about the technology and privacy issues of crowd-sourced data collection, while helping to build wearable sensors.<br><br>07.10.15 – 11.10.15 / 19.30 - 24.00 Uhr<br>Ernst-Abbe Platz <br>http://city-visions.net/?p=191]]></description>
+				<styleUrl>#icon-960-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/04/10.2.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5826521,50.9287975,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bring your own Beamer (BYOB)</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/04/Unbenannt-1.jpg" height="200" width="auto" /><br><br>Alle Besucher sind aufgerufen, ihr persönliches Film- oder Fotomaterial aus China mitzubringen. Die gleichzeitige Projektion unterschiedlicher Bilder macht die Mauern des Johannistors zur lebendigen Leinwand, weckt Begeisterung für Kunst im öffentlichen Raum und einen spannenden visuellen Dialog zwischen China und Jena.<br> _______________________________________<br>An open call to all visitors invites everyone to bring their personal footage from China. The simultaneous projection of different pictures in different sizes will animate the historic walls of the Johannistor and transform it into a living canvas, opening up the public space with its DIY art enthusiasm and provoking a lively visual dialogue between China and Jena.<br><br><br>09.10.15 / 19.00 – 23.00 Uhr<br>Johannistor<br>http://city-visions.net/?p=87]]></description>
+				<styleUrl>#icon-960-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/04/Unbenannt-1.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.584092,50.929447,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kaffee Lampe</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/04/14.jpg" height="200" width="auto" /><br><br>Eine gemeinschaftliche Lichtskulptur von  IN's NETZ e.V. in der neu eröffneten Trafo-Station.<br>_______________________________________<br>A collaborative lightsculpture by IN's NETZ e.V. in the newly reopened Trafo-Station.<br><br>07.10.15 – 09.10.15 / 10.00 – 18.00 Uhr<br>Trafostation<br>http://city-visions.net/?p=56]]></description>
+				<styleUrl>#icon-960-3F5BA9</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/04/14.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5872226,50.9365667,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>LICHTPARCOURS</name>
+			<Placemark>
+				<name>recoil</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/07/recoil-robert-seidel.jpg" height="200" width="auto" /><br><br>Die Arbeit 'recoil'  von Robert Seidel ist von den unsichtbaren Datenströmen und Versorgungskreisläufen der Stadtwerke Jena und jenawohnen inspiriert.<br>_______________________________________<br>The artwork 'recoil' by Robert Seidel is inspired by the invisible data flows and supply circuits of the Stadtwerke Jena (public utilities) and jenawohnen (housing).<br><br>07.10.15 – 11.10.15 / 19.30 – 24.00<br>jenawohnen<br>http://city-visions.net/?p=429]]></description>
+				<styleUrl>#icon-959-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/07/recoil-robert-seidel.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.590910000000008,50.92831,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nachtsonne - Planetarium</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/05/planetarium-copyright-stefan-harnisch.jpg" height="200" width="auto" /><br><br>Während CITY VISIONS wird die Kuppel des Zeiss-Planetariums Jena von außen mit Video-Projektionen der 'Nachtsonne' bespielt.<br>_______________________________________<br>During CITY VISIONS the dome will be enlightened by the video projection 'night sun' from the outside.<br><br>07.10.15 - 11.10.15 / 19.00 - 23.00<br>Zeiss-Planetarium Jena <br>http://city-visions.net/?p=1693]]></description>
+				<styleUrl>#icon-959-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/05/planetarium-copyright-stefan-harnisch.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.586928,50.931815,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Translokaler Markt</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/05/15.jpg" height="200" width="auto" /><br><br>In Zusammenarbeit mit der Deutsch-Chinesischen Gesellschaft Jena e.V. verwandelt CITY VISIONS den Ernst-Abbe-Platz während des Festivals in einen Translokalen Markt. Tagsüber Technologiecampus, abends chinesischer Streetfoodmarkt ist er interkultureller Treffpunkt für Menschn aus Jena und Guangzhou / Panyu and Urban Lights Ruhr.<br>_______________________________________<br>Together with the German-Chinese Association Jena e.V. CITY VISIONS transforms the Ernst-Abbe-Platz into a Translocal Market. Technology campus during the day turns chinese streetfoodmarket at night and intercultural encounter for the citizens of Jena and Guangzhou / Panyu and Urban Lights Ruhr.<br><br>07.10.15 – 11.10.15 / 19.00 - 24.00 Uhr<br>Ernst-Abbe-Platz <br>http://city-visions.net/?p=526]]></description>
+				<styleUrl>#icon-959-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/05/15.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5823794,50.9283357,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Leuchtturm</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/04/Unbenannt-3.jpg" height="200" width="auto" /><br><br>Eine minimalistische Lichtinstallation von Florian Licht inszeniert den JenTower als Symbol der Lichtstadt Jena und als Leuchtturm des Ostens.<br>_______________________________________<br>The minimal light installation stages the JenTower as a lighthouse of the East and as a symbol for Jena, the city of light.<br><br>07.10.15 – 11.10.15 / 19.30 - 24.00 Uhr<br>JenTower <br>http://city-visions.net/?p=1184]]></description>
+				<styleUrl>#icon-959-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/04/Unbenannt-3.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5846602,50.9289359,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Scotoma</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/04/copyright-jana-voigtmann-alexander-voigt.jpg" height="200" width="auto" /><br><br>'Scotoma' spielt mit den Möglichkeiten neuer Tracking-Technologien ohne dabei die kritische Distanz zu verlieren.<br> _______________________________________<br>'Scotoma’ plays with the possibilities of new tracking technologies, without giving up a critical distance.<br><br>07.10.15 – 11.10.15 / 19.30 – 24.00 Uhr <br>Marktplatz<br>http://city-visions.net/?p=84]]></description>
+				<styleUrl>#icon-959-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/04/copyright-jana-voigtmann-alexander-voigt.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5883082,50.927751,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sonnengarten</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/05/27.jpg" height="200" width="auto" /><br><br>Mit ihrer Arbeit 'Sonnengarten' wollen Studenten aus dem Projekt 'Urban Interface' im M.A. MediaArxhitecture an der Bauhaus-Universität Weimar den inneren Bereich des 'Sonnenhofes' der Carl Zeiss eG mit urbaner Natur beleben.<br>_______________________________________<br>With their interactive piece 'Sonnengarten' students in the project  'Urban Interface' in the M.A. Programme MediaArchitecture at Bauhaus-University Weimar aim to revive the courtyard of the 'Sonnenhof' of the Carl Zeiss eG with urban nature.<br><br>07.10.15 – 11.10.15 / 19.30 - 24.00 Uhr<br>Sonnenhof <br>http://city-visions.net/?p=1407]]></description>
+				<styleUrl>#icon-959-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/05/27.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5876203,50.9272909,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Light Walk</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/06/26.jpg" height="200" width="auto" /><br><br>'Light Walk' ist eine interaktive Lichtinstallation von Studenten in dem Projekt 'Urban Interface' im M.A. MediaArchitecture an der Bauhaus-Universität Weimar, die auf die Zwischenorte der Stadt Jena, hier die Passagen die zum 'Sonnenhof' der Carl Zeiss e.G. führen, aufmerksam macht.<br>_______________________________________<br>'Light Walk' is an interactive light installtion by students from the project 'Urban Interface' in the M.A. Programme MediaArchitecture at Bauhaus-University Weimar, that calls attention to the intermdiate places in Jena, in this case the passage ways leading to the 'Sonnenhof' of the Carl Zeiss eG.<br><br> 07.10.15 – 11.10.15 / 19.30 - 24.00 Uhr<br>Sonnenhof <br>http://city-visions.net/?p=1415]]></description>
+				<styleUrl>#icon-959-7CCFA9</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/06/26.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5877652,50.9275091,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>EVENTS</name>
+			<Placemark>
+				<name>Symposium</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/05/symposium.jpg" height="200" width="auto" /><br><br>Der Wandel der Stadt im Zeitalter der Digitalisierung – Symposium an der Friedrich-Schiller-Universität Jena.<br>Parallel zu den ästhetischen Explorationen von CITY VISIONS JENA reflektiert das Symposium den urbanen Wandel auf wissenschaftlicher Ebene. <br>_______________________________________<br>The Change of the City in the Age of Digitalisation Symposium at the Friedrich-Schiller-University Jena.<br>Parallel to the aesthetic explorations of CITY VISIONS JENA, the symposium reflects on urban change on an academic level.<br>09.10.2015 /  Trafo-Station Jena<br>http://city-visions.net/?p=498]]></description>
+				<styleUrl>#icon-961-F9F7A6</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/05/symposium.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5817248,50.928662,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kassablanca</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/06/19.jpg" height="200" width="auto" /><br><br>_______________________________________<br><br><br>09.10.15 - 10.10.15 / 23.00 Uhr<br>Kassablanca<br>http://city-visions.net/?p=27]]></description>
+				<styleUrl>#icon-961-F9F7A6</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/06/19.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.578030000000012,50.920660000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Weit - Konzert + Visuals</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/06/Fotograf_Ralf_Thomas_800x700.jpg" height="200" width="auto" /><br><br>Der Schlagzeuger und Klangbastler Demian Kappenstein gibt ein Konzert für Schlagzeug, Elektronik und Fotografie. Während des Konzerts projeziert der Medienkünstler Benjamin Schindler Fotografien auf eine zwei Meter große Skulptur.<br>_______________________________________<br>Drummer and sound tinker Demian Kappenstein  produced a  full-length concert for drums, electronics and photography. During the concert media artist Benjamin Schindler projects footage  on a two meter high sculpture.<br><br>11.10.15 / time tbc / Trafo-Station]]></description>
+				<styleUrl>#icon-961-F9F7A6</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/06/Fotograf_Ralf_Thomas_800x700.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.5877867,50.9365259,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FullDome Special Edition</name>
+				<description><![CDATA[<img src="http://city-visions.net/wp-content/uploads/2015/07/%C2%A9-Michael-Schomann_BlaueBlume.jpg" height="200" width="auto" /><br><br>Das Zeiss-Planetarium Jena ist das dienstälteste Planetarium der Welt, ausgestattet mit neuesten digitalen Projektionstechnologien. Zusammen mit den Kuratoren des FullDome Festivals zeigt CITY VISIONS auf der 800 Quadratmeter großen Innenfläche der Planetariumskuppel Filme, die die ‘Unsichtbaren Städte’ widerspiegeln.<br>09.10.15 - 10.10.15 / 22.00<br>Zeiss-Planetarium Jena <br>http://city-visions.net/?p=309]]></description>
+				<styleUrl>#icon-961-E6EEA3</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>http://city-visions.net/wp-content/uploads/2015/07/%C2%A9-Michael-Schomann_BlaueBlume.jpg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>11.582948,50.9286689,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Unbenannte Ebene</name>
+		</Folder>
+		<Folder>
+			<name>Unbenannte Ebene</name>
+		</Folder>
+		<Folder>
+			<name>Unbenannte Ebene</name>
+		</Folder>
+		<Folder>
+			<name>Unbenannte Ebene</name>
+		</Folder>
+		<Style id='icon-959-7CCFA9-normal'>
+			<IconStyle>
+				<color>ffA9CF7C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-959-7CCFA9-highlight'>
+			<IconStyle>
+				<color>ffA9CF7C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-959-7CCFA9'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-959-7CCFA9-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-959-7CCFA9-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-960-3F5BA9-normal'>
+			<IconStyle>
+				<color>ffA95B3F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-960-3F5BA9-highlight'>
+			<IconStyle>
+				<color>ffA95B3F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-960-3F5BA9'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-960-3F5BA9-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-960-3F5BA9-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-961-E6EEA3-normal'>
+			<IconStyle>
+				<color>ffA3EEE6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-961-E6EEA3-highlight'>
+			<IconStyle>
+				<color>ffA3EEE6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-961-E6EEA3'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-961-E6EEA3-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-961-E6EEA3-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-961-F9F7A6-normal'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-961-F9F7A6-highlight'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-961-F9F7A6'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-961-F9F7A6-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-961-F9F7A6-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-962-A61B4A-normal'>
+			<IconStyle>
+				<color>ff4A1BA6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-962-A61B4A-highlight'>
+			<IconStyle>
+				<color>ff4A1BA6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-962-A61B4A'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-962-A61B4A-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-962-A61B4A-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
